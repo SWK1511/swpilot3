@@ -40,7 +40,6 @@ public class RoadToBiodome02 {
 
         System.out.println(new String(reversed));
     }
-
     private static boolean isPalindrome(String s) {
         int n = s.length();
         for (int i = 0; i < n / 2; i++) {
@@ -62,3 +61,5 @@ public class RoadToBiodome02 {
         return stack.remove(stack.size() - 1);
     }
 }
+
+//pop이 거꾸로 나오는거라 reversed를 꼭 할 필요없음. Stack 라이브러리를 만들고....
