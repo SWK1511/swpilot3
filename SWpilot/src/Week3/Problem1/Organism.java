@@ -1,4 +1,4 @@
-package Week3.Problem1; // 이 클래스가 속한 패키지를 지정합니다.
+package Week3.Problem1;
 
 // 동물이나 식물과 같은 생명체 정보를 담는 클래스
 public class Organism {

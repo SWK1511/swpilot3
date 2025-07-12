@@ -1,4 +1,4 @@
-package Week3.Problem1; // 이 파일이 포함된 패키지를 정의합니다. 파일 경로와 일치해야 합니다.
+package Week3.Problem1;
 
 public class BiodomeFamily01 {
     public static void main(String[] args) {
